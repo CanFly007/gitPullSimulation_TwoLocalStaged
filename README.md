@@ -1,4 +1,5 @@
 # gitPullSimulation_TwoLocalStaged
-line2 other user change this line
-line3
-line4 other change line 4
+line 2  other user change this line
+line 3
+line 4  other change line 4
+line 5
